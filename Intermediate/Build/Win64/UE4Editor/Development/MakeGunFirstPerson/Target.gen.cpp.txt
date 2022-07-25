@@ -1,0 +1,5 @@
+C:\Users\erocc\Desktop\MakeGunFirstPerson\Intermediate\Build\Win64\UE4Editor\Development\MakeGunFirstPerson\Definitions.MakeGunFirstPerson.h
+A:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+A:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\erocc\Desktop\MakeGunFirstPerson\Source\MakeGunFirstPerson/Target.h
+C:\Users\erocc\Desktop\MakeGunFirstPerson\Intermediate\Build\Win64\UE4Editor\Inc\MakeGunFirstPerson\Target.generated.h

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MakeGunFirstPerson.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0101DEC4-9D18-4A5F-A3DE-C83B15348D8E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MakeGunFirstPerson.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MakeGunFirstPersonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DE42CCBA-A775-47B9-BD9F-8FF93FF5950D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MakeGunFirstPerson">
+      <UniqueIdentifier>{55BCE67D-C5E8-4783-8CA1-A3BB8C1F7433}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPerson.Build.cs">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPerson.cpp">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPerson.h">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPersonCharacter.cpp">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPersonCharacter.h">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPersonGameMode.cpp">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPersonGameMode.h">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPersonHUD.cpp">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPersonHUD.h">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPersonProjectile.cpp">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MakeGunFirstPerson\MakeGunFirstPersonProjectile.h">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MakeGunFirstPerson\Target.cpp">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MakeGunFirstPerson\Target.h">
+      <Filter>Source\MakeGunFirstPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
